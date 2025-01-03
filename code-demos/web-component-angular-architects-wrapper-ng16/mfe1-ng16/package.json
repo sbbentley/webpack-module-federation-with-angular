@@ -20,7 +20,7 @@
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
-    "@angular-architects/module-federation": "^16.0.4",
+    "@angular-architects/module-federation": "^18.0.6",
     "@angular-devkit/build-angular": "^16.1.4",
     "@angular/cli": "~16.1.4",
     "@angular/compiler-cli": "^16.1.0",

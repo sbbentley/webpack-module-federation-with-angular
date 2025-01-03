@@ -12,7 +12,7 @@ const moduleFederationConfig = withModuleFederationPlugin({
   shared: {
     ...shareAll({
       singleton: true,
-      strictVersion: true,
+      strictVersion: false,
       requiredVersion: "auto",
     }),
   },
